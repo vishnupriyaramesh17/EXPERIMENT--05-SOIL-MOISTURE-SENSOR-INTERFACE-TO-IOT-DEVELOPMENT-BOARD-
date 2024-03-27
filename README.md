@@ -139,11 +139,10 @@ while (1)
   }
 ```
 
-
-## Output screen shots on serial monitor   :
+## Board connections :
 
  ![iotexp5](https://github.com/vishnupriyaramesh17/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/119393589/1e61821e-c612-45aa-87f9-3b7d1e2a2e0d)
-
+## Output screen shots on serial monitor   :
  
  ![iotexp55 ](https://github.com/vishnupriyaramesh17/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/119393589/90f08a1d-e816-48e1-845c-80422a9a4b28)
 
